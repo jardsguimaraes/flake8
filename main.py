@@ -20,4 +20,4 @@ fila_prioritaria.atualiza_fila()
 
 print(fila_prioritaria.chama_cliente(4))
 print(fila_prioritaria.chama_cliente(5))
-print(fila_prioritaria.chama_cliente(6))
+print(fila_prioritaria.chama_cliente(8))
